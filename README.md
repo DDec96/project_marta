@@ -1,0 +1,1 @@
+Aplikacja służąca do układania grafiku dla RTG i TK.
