@@ -32,6 +32,6 @@ Co powinno uwzględniać dobre narzędzie do robienia grafiku..?
 
 8. Jako użytkownik/planer chcę Aby aplikacja w przejrzysty sposób informowała o sumie godzin pracy poszczególnych pracowników, ŻEBY mieć możliwość kontroli czasu pracy i nadgodzin.
 
-9. Jako użytkownik/planer chcę Aby aplikacja 'znała' kalendarz, tj. daty świąt i oznaczała je w widoczny sposób
+9. Jako użytkownik/planer chcę Aby aplikacja 'znała' kalendarz, m.in. daty świąt i oznaczała je w widoczny sposób, aby grafik był bardziej czytelny dla odbiorcy.
 
 
