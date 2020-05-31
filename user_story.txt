@@ -1,0 +1,18 @@
+Jako <użytkownik> chcę <potrzeba>, żeby <cel do osiągnięcia>.
+
+Jako użytkownik (Marta) chcę..:
+•	Mieć narzędzie (aplikacje) do tworzenia miesięcznego grafiku zmianowego, ŻEBY przedstawić pracownikom plan ich pracy na kolejny miesiąc.
+•	Aby aplikacja uwzględniała 2 grupy (RTG – 15os, TK - 10 os), żeby móc układać osobny grafik dla RTG i TK wg innych zasad.
+•	Aby aplikacja  w przypadku RTG uwzględniała następujące zasady: 
+	o	Zmiany 12h
+	o	Zmiany mogą mieć różną wartość jeśli chodzi o wypłaty, m.in.:
+			Niedziele i święta po równo dla każdego (65%+ do wypłaty)
+			Nocki w weekend i święta lepiej płatne 
+			Nocki w tygodniu (pon-pt) lepiej płatne
+	o	Ilość osób na zmianę:
+			Nocka Pn-pt 2 os (czy może być mniej lub więcej?)
+			Dniówka Pn-pt najlepiej 4 os, może być 3 os, minimum 2 os, max 5 os.
+			*Iwona – jest zawsze pn-pt 7-14:30, jest liczona jako dodatkowa 1 os.
+
+	Aby Aplikacja kontrolowała liczbę godzin pracowników,  ponieważ suma godzin nie może łamać kodeksu pracy (?)
+	
