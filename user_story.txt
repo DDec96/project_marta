@@ -1,34 +1,34 @@
 Jako <użytkownik> chcę <potrzeba>, żeby <cel do osiągnięcia>.
 _______________________
 
-1. Jako użytkownik (Marta) chcę Mieć narzędzie (aplikacje) do tworzenia miesięcznego grafiku zmianowego, ŻEBY przedstawić pracownikom plan ich pracy na kolejny miesiąc.
+1. Jako użytkownik chcę Mieć narzędzie (aplikacje) do tworzenia miesięcznego grafiku zmianowego, ŻEBY przedstawić pracownikom plan ich pracy na kolejny miesiąc.
 
-2. Jako użytkownik (Marta) chcę Aby aplikacja względniała 2 grupy (RTG – 15os, TK - 10 os), ŻEBY móc układać osobny grafik dla RTG i TK wg innych zasad.
+2. Jako użytkownik chcę Aby aplikacja względniała 2 grupy (RTG – 15os, TK - 10 os), ŻEBY móc układać osobny grafik dla RTG i TK wg innych zasad.
 
 _______________________
 
 RTG
 
-3. Jako użytkownik (Marta) chcę Aby aplikacja  w przypadku grafiku dla RTG uwzględniała zmiany 12h, ponieważ taki jest przyjęty system.  
+3. Jako użytkownik chcę Aby aplikacja  w przypadku grafiku dla RTG uwzględniała zmiany 12h, ponieważ taki jest przyjęty system.  
 	
-4. Jako użytkownik (Marta) chcę aby aplikacja brała pod uwagę różne wartości wypłat w poszczególnych dniach i rozdzielała je sprawiedliwie w skali roku, żeby grafik spełniał oczekiwania pracowników. 
-4.1. Jako użytkownik (Marta) chcę aby aplikacja brała pod uwagę wyższe wartości wypłat w Niedziele i święta i rozdzielał te dni po równo dla każdego (65%+ do wypłaty), żeby grafik spełniał oczekiwania pracowników.
-4.2. Jako użytkownik (Marta) chcę aby aplikacja brała pod uwagę wyższe wartości wypłat za Nocki w weekend i święta i rozdzielał te dni po równo dla każdego, żeby grafik spełniał oczekiwania pracowników.
-4.3. Jako użytkownik (Marta) chcę aby aplikacja brała pod uwagę wyższe wartości wypłat za Nocki w tygodniu (pon-pt) i rozdzielał te dni po równo dla każdego, żeby grafik spełniał oczekiwania pracowników.
+4. Jako użytkownik chcę aby aplikacja brała pod uwagę różne wartości wypłat w poszczególnych dniach i rozdzielała je sprawiedliwie w skali roku, żeby grafik spełniał oczekiwania pracowników. 
+4.1. Jako użytkownik chcę aby aplikacja brała pod uwagę wyższe wartości wypłat w Niedziele i święta i rozdzielał te dni po równo dla każdego (65%+ do wypłaty), żeby grafik spełniał oczekiwania pracowników.
+4.2. Jako użytkownik chcę aby aplikacja brała pod uwagę wyższe wartości wypłat za Nocki w weekend i święta i rozdzielał te dni po równo dla każdego, żeby grafik spełniał oczekiwania pracowników.
+4.3. Jako użytkownik chcę aby aplikacja brała pod uwagę wyższe wartości wypłat za Nocki w tygodniu (pon-pt) i rozdzielał te dni po równo dla każdego, żeby grafik spełniał oczekiwania pracowników.
 
-5. Jako użytkownik (Marta) chcę aby aplikacja brała pod uwagę zapotrzebowanie w ilości osób na zmianę, aby w pełni wykorzystać zasoby ludzkie bez przeciążania pracowników. 
-5.1. Jako użytkownik (Marta) chcę aby aplikacja brała pod uwagę zapotrzebowanie w ilości osób na zmianę Nocną Pn-pt, które wynosi 2 os (zawsze), aby w pełni wykorzystać zasoby ludzkie bez przeciążania pracowników.
-5.2. Jako użytkownik (Marta) chcę aby aplikacja brała pod uwagę zapotrzebowanie w ilości osób na zmianę Dzienną Pn-pt najlepiej 4 os, może być 3 os, minimum 2 os, max 5 os, aby w pełni wykorzystać zasoby ludzkie bez przeciążania pracowników.
+5. Jako użytkownik chcę aby aplikacja brała pod uwagę zapotrzebowanie w ilości osób na zmianę, aby w pełni wykorzystać zasoby ludzkie bez przeciążania pracowników. 
+5.1. Jako użytkownik chcę aby aplikacja brała pod uwagę zapotrzebowanie w ilości osób na zmianę Nocną Pn-pt, które wynosi 2 os (zawsze), aby w pełni wykorzystać zasoby ludzkie bez przeciążania pracowników.
+5.2. Jako użytkownik chcę aby aplikacja brała pod uwagę zapotrzebowanie w ilości osób na zmianę Dzienną Pn-pt najlepiej 4 os, może być 3 os, minimum 2 os, max 5 os, aby w pełni wykorzystać zasoby ludzkie bez przeciążania pracowników.
 
-6. Jako użytkownik/planer chcę mieć możliwość wprowadzania liczby godzin do przepracowania w kazdym miesiącu indywidualnie, ponieważ jest to kwestia zmienna.
-6.1. Jako użytkownik/planer chcę Aby Aplikacja kontrolowała liczbę godzin pracowników, ponieważ suma godzin nie może łamać kodeksu pracy.
-6.2. Jako użytkownik/planer chcę Aby aplikacja brałą pod uwagę, że po zmianie musi być 11h wolnego, ponieważ takie są zasady kodeksu pracy.
+6. Jako użytkownik chcę mieć możliwość wprowadzania liczby godzin do przepracowania w kazdym miesiącu indywidualnie, ponieważ jest to kwestia zmienna.
+6.1. Jako użytkownik chcę Aby Aplikacja kontrolowała liczbę godzin pracowników, ponieważ suma godzin nie może łamać kodeksu pracy.
+6.2. Jako użytkownik chcę Aby aplikacja brałą pod uwagę, że po zmianie musi być 11h wolnego, ponieważ takie są zasady kodeksu pracy.
 
-7. Jako użytkownik/planer chcę Mieć możliwość dodawania pracowników i modyfikowania w łatwy sposób ich dyspozycyjności, ŻEBY stworzony grafik spełniał oczekiwania/życzenia współpracowników.
-7.1. Jako użytkownik/planer chcę Mieć możliwość wprowadzania danych o urlopach, ABY potem były one uwzględnione w grafiku.
+7. Jako użytkownik chcę Mieć możliwość dodawania pracowników i modyfikowania w łatwy sposób ich dyspozycyjności, ŻEBY stworzony grafik spełniał oczekiwania/życzenia współpracowników.
+7.1. Jako użytkownik chcę Mieć możliwość wprowadzania danych o urlopach, ABY potem były one uwzględnione w grafiku.
 
-8. Jako użytkownik/planer chcę Aby aplikacja w przejrzysty sposób informowała o sumie godzin pracy poszczególnych pracowników, ŻEBY mieć możliwość kontroli czasu pracy i nadgodzin.
+8. Jako użytkownik chcę Aby aplikacja w przejrzysty sposób informowała o sumie godzin pracy poszczególnych pracowników, ŻEBY mieć możliwość kontroli czasu pracy i nadgodzin.
 
-9. Jako użytkownik/planer chcę Aby aplikacja 'znała' kalendarz, m.in. daty świąt, aby uwzględniała te dni przy generowaniu grafiku.
+9. Jako użytkownik chcę Aby aplikacja 'znała' kalendarz, m.in. daty świąt, aby uwzględniała te dni przy generowaniu grafiku.
 
-10. Jako użytkownik/planer chcę Aby aplikacja posiadała interface graficzny (gui), żeby w wygodny sposób móc ją obsługiwać.
+10. Jako użytkownik chcę Aby aplikacja posiadała interface graficzny (gui), żeby w wygodny sposób móc ją obsługiwać.
