@@ -35,4 +35,4 @@ RTG
 9. Jako użytkownik chcę Aby aplikacja 'znała' kalendarz roku dla którego jest tworzony grafik, aby uwzględniała go przy generowaniu grafiku.
 9.1. Jako użytkownik chcę Aby aplikacja 'znała' daty świąt w danym roku, aby uwzględniała te dni przy generowaniu grafiku.
 
-10. Jako użytkownik chcę Aby aplikacja posiadała interface graficzny (gui), żeby móc ją obsługiwać bez wiedzy technicznej i żeby była prosta i intuicyjna.
+10. Jako użytkownik chcę Aby aplikacja posiadała interface graficzny (gui), żeby w prosty i  intuicyjny sposób, bez wiedzy techniczej, móc korzystać z aplikacji.
