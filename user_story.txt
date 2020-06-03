@@ -1,4 +1,4 @@
-Jako <użytkownik> chcę <potrzeba>, żeby <cel do osiągnięcia>.
+Jako <użytkownik> chcę <potrzeba>, żeby <cel do osiągnięcia> !
 _______________________
 
 1. Jako użytkownik chcę Mieć narzędzie (aplikacje) do tworzenia miesięcznego grafiku zmianowego, ŻEBY przedstawić pracownikom plan ich pracy na kolejny miesiąc.
