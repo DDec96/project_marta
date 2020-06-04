@@ -12,9 +12,9 @@ RTG
 3. Jako użytkownik chcę Aby aplikacja  w przypadku grafiku dla RTG uwzględniała zmiany 12h, ponieważ taki jest przyjęty system.  
 	
 4. Jako użytkownik chcę aby aplikacja brała pod uwagę różne wartości stawek godzinowych na poszczególnych zmianach i rozdzielała je sprawiedliwie w skali roku, żeby grafik spełniał oczekiwania pracowników. 
-4.1. Jako użytkownik chcę aby aplikacja brała pod uwagę wyższe wartości stawek godzinowych za dniówki w Niedziele i święta (65%+pH) i rozdzielał te godziny po równo dla każdego , żeby grafik spełniał oczekiwania pracowników.
-4.2. Jako użytkownik chcę aby aplikacja brała pod uwagę wyższe wartości stawek godzinowych za Nocki w weekend i święta (65%+pH) i rozdzielał te godziny po równo dla każdego, żeby grafik spełniał oczekiwania pracowników.
-4.3. Jako użytkownik chcę aby aplikacja brała pod uwagę wyższe wartości stawek godzinowych za Nocki w tygodniu (pon-pt) (45%+pH) i rozdzielał te godziny po równo dla każdego, żeby grafik spełniał oczekiwania pracowników.
+4.1. Jako użytkownik chcę aby aplikacja brała pod uwagę wyższe wartości stawek godzinowych za dniówki w Niedziele i święta (65%+pH) i rozdzielał te zmiany po równo dla każdego , żeby grafik spełniał oczekiwania pracowników.
+4.2. Jako użytkownik chcę aby aplikacja brała pod uwagę wyższe wartości stawek godzinowych za Nocki w weekend i święta (65%+pH) i rozdzielał te zmiany po równo dla każdego, żeby grafik spełniał oczekiwania pracowników.
+4.3. Jako użytkownik chcę aby aplikacja brała pod uwagę wyższe wartości stawek godzinowych za Nocki w tygodniu (pon-pt) (45%+pH) i rozdzielał te zmiany po równo dla każdego, żeby grafik spełniał oczekiwania pracowników.
 		
 5. Jako użytkownik chcę aby aplikacja brała pod uwagę zapotrzebowanie w ilości osób na zmianę, aby w pełni wykorzystać dostępność do pracy na daną zmianę pracowników bez przeciążania ich.
 5.1. Jako użytkownik chcę aby aplikacja brała pod uwagę zapotrzebowanie w ilości osób na zmianę Nocną Pn-pt, które wynosi 2 os (zawsze), aby w pełni wykorzystać dostępność do pracy na daną zmianę pracowników bez przeciążania ich.
@@ -23,12 +23,12 @@ RTG
 6.1. Jako użytkownik chcę Aby Aplikacja kontrolowała liczbę godzin przepracowanych przez pracowników, ponieważ suma godzin nie może łamać kodeksu pracy.
 6.2. Jako użytkownik chcę Aby aplikacja brałą pod uwagę, że po zmianie musi być 11h wolnego, ponieważ takie są zasady kodeksu pracy.
 
-7. Jako użytkownik chcę Mieć możliwość definiowania pracowników, tj dodawania i odejmowania ich z listy, ŻEBY program tworząc grafik korzystał z góry określonej, stałej listy pracowników.
+7. Jako użytkownik chcę Mieć możliwość definiowania pracowników, tj dodawania i odejmowania ich z listy, ŻEBY program tworząc grafik korzystał z góry określonej listy pracowników.
 7.1 Jako użytkownik chcę Mieć możliwość modyfikowania w łatwy sposób dyspozycyjności pracowników, ŻEBY stworzony grafik w miarę możliwości spełniał ich oczekiwania/życzenia.
 7.1. Jako użytkownik chcę Mieć możliwość wprowadzania danych o niedyspozycyjności (o urlopach i L4), ABY potem były one uwzględnione w grafiku.
 
 8. Jako użytkownik chcę Aby aplikacja w przejrzysty sposób informowała o sumie godzin  pracy poszczególnych pracowników w poszczególnych miesiącach i kwartałach, ŻEBY mieć możliwość kontroli czasu pracy i nadgodzin.
-8.1 Jako użytkownik chcę Aby aplikacja w przejrzysty sposób informowała jak zostały rozdzielone bonusowe godziny pomiędzy pracowników, żeby mieć kontrole nad tym jak są rozdzielone.
+8.1 Jako użytkownik chcę Aby aplikacja w przejrzysty sposób informowała jak zostały rozdzielone godziny o wartości 145% i 165% pomiędzy pracowników, żeby mieć kontrole nad tym jak są rozdzielone.
 
 9. Jako użytkownik chcę Aby aplikacja 'znała' kalendarz roku dla którego jest tworzony grafik, aby uwzględniała go przy generowaniu grafiku.
 9.1. Jako użytkownik chcę Aby aplikacja 'znała' daty świąt w danym roku, aby uwzględniała te dni przy generowaniu grafiku.
