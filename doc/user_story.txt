@@ -17,8 +17,9 @@ RTG
 4.3. Jako użytkownik chcę aby aplikacja brała pod uwagę wyższe wartości stawek godzinowych za Nocki w tygodniu (pon-pt) (45%+pH) i rozdzielał te zmiany po równo dla każdego, żeby grafik spełniał oczekiwania pracowników.
 		
 5. Jako użytkownik chcę aby aplikacja brała pod uwagę zapotrzebowanie w ilości osób na zmianę, aby w pełni wykorzystać dostępność do pracy na daną zmianę pracowników bez przeciążania ich.
-5.1. Jako użytkownik chcę aby aplikacja brała pod uwagę zapotrzebowanie w ilości osób na zmianę Nocną Pn-pt, które wynosi 2 os (zawsze), aby w pełni wykorzystać dostępność do pracy na daną zmianę pracowników bez przeciążania ich.
-5.2. Jako użytkownik chcę aby aplikacja brała pod uwagę zapotrzebowanie w ilości osób na zmianę Dzienną Pn-pt najlepiej 4 os, może być 3 os, minimum 2 os, max 5 os, aby w pełni wykorzystać dostępność do pracy na daną zmianę pracowników bez przeciążania ich.
+5.1. Jako użytkownik chcę aby aplikacja brała pod uwagę zapotrzebowanie w ilości osób na zmianę Nocną, które wynosi 2 os (zawsze), aby w pełni wykorzystać dostępność do pracy na daną zmianę pracowników bez przeciążania ich.
+5.2. Jako użytkownik chcę aby aplikacja brała pod uwagę zapotrzebowanie w ilości osób na zmianę Dzienną najlepiej 4 os, może być 3 os, minimum 2 os, max 5 os, aby w pełni wykorzystać dostępność do pracy na daną zmianę pracowników bez przeciążania ich.
+
 6. Jako użytkownik chcę mieć możliwość wprowadzania liczby godzin do przepracowania w kazdym miesiącu indywidualnie (dla każdego miesiąca), ponieważ jest to kwestia zmienna.
 6.1. Jako użytkownik chcę Aby Aplikacja kontrolowała liczbę godzin przepracowanych przez pracowników, ponieważ suma godzin nie może łamać kodeksu pracy.
 6.2. Jako użytkownik chcę Aby aplikacja brałą pod uwagę, że po zmianie musi być 11h wolnego, ponieważ takie są zasady kodeksu pracy.
